@@ -1,0 +1,20 @@
+{
+  "type": "audience",
+  "data": {
+    "audienceId": "435342",
+    "audienceName": "LoggedIn XYZ",
+    "userSegmentId": "LoggedIn",
+    "characteristics": [
+      {
+        "type": "Comes from State",
+        "value": "FL",
+        "condition": "and"
+      },
+      {
+        "type": "Comes from Test",
+        "value": "AL",
+        "condition": "or"
+      }
+    ]
+  }
+}
