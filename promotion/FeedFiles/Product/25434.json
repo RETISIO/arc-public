@@ -1,0 +1,16 @@
+{
+  "type": "product",
+  "data": {
+    "productId": "25434",
+    "productName": "five test",
+    "productVariants": [
+      "5",
+      "6"
+    ],
+    "brandId": "345232",
+    "productGroupId": "23232",
+    "categoryId": "222",
+    "catalogId": "1001",
+    "onSale": true
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "userSegment",
+  "data": {
+    "userSegmentId": "1001",
+    "userSegmentName": "LoggedIn"
+  }
+}

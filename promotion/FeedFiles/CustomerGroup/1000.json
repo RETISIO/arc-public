@@ -1,0 +1,7 @@
+{
+  "type": "customerGroup",
+  "data": {
+    "customerGroupId": "1000",
+    "customerGroupName": "Anonymous"
+  }
+}
