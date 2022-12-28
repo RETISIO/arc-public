@@ -1,0 +1,24 @@
+{
+    "paymentMethods": [
+        {
+            "id": "visa",
+            "name": "Visa Card"
+        },
+        {
+            "id": "masterCard",
+            "name": "Master Card"
+        },
+        {
+            "id": "discover",
+            "name": "Discover"
+        },
+        {
+            "id": "americanExpress",
+            "name": "American Express"
+        },
+        {
+            "id": "payPal",
+            "name": "Paypal"
+        }
+    ]
+}
