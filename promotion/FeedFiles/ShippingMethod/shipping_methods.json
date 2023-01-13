@@ -1,0 +1,20 @@
+{
+    "shippingMethods": [
+        {
+            "id": "std",
+            "name": "Standard Delivery"
+        },
+        {
+            "id": "odd",
+            "name": "One Day Delivery"
+        },
+        {
+            "id": "tdd",
+            "name": "Two Day Delivery"
+        },
+        {
+            "id": "next",
+            "name": "Next Day Delivery"
+        }
+    ]
+}
